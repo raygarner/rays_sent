@@ -10,7 +10,7 @@ static char *fontfallbacks[] = {
 
 static const char *colors[] = {
 	"#000000", /* foreground color */
-	"#e5dd85", /* background color */
+	"#FEFFBA", /* background color */
 };
 
 static const float linespacing = 1.4;
